@@ -19,7 +19,7 @@
    
    <h2>⭐️ Top project</h2>
   <div align="center"> 
-	   <img   src="https://github-readme-stats.vercel.app/api/pin/?username=samuelfer42&repo=ft_transcendance&border_radius=30&hide_border=true)]([https://github.com/samuelfer42/Push_swap](https://github.com/samuelfer42/ft_transcendance)" />
+	   <img   src="https://github-readme-stats.vercel.app/api/pin/?username=samuelfer42&repo=Ft_transcendance&border_radius=30&hide_border=true)]([https://github.com/samuelfer42/Ft_transcendance](https://github.com/samuelfer42/Ft_transcendance)" />
    <img   src="https://github-readme-stats.vercel.app/api/pin/?username=samuelfer42&repo=ft_irc&border_radius=30&hide_border=true)](https://github.com/samuelfer42/Ft_irc" />
    <img   src="https://github-readme-stats.vercel.app/api/pin/?username=samuelfer42&repo=Minishell&border_radius=30&hide_border=true)](https://github.com/samuelfer42/Minishell" />
    <img   src="https://github-readme-stats.vercel.app/api/pin/?username=samuelfer42&repo=Cub3d&border_radius=30&hide_border=true)](https://github.com/samuelfer42/Cub3d" />
