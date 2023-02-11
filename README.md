@@ -16,15 +16,22 @@
  	<img   src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 	<img   src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"  />
  </div>
-   
+ 
    <h2>⭐️ Top project</h2>
   <div align="center"> 
-	   <img   src="https://github-readme-stats.vercel.app/api/pin/?username=samuelfer42&repo=Ft_transcendance&border_radius=30&hide_border=true)]([https://github.com/samuelfer42/Ft_transcendance](https://github.com/samuelfer42/Ft_transcendance)" />
-   <img   src="https://github-readme-stats.vercel.app/api/pin/?username=samuelfer42&repo=ft_irc&border_radius=30&hide_border=true)](https://github.com/samuelfer42/Ft_irc" />
-   <img   src="https://github-readme-stats.vercel.app/api/pin/?username=samuelfer42&repo=Minishell&border_radius=30&hide_border=true)](https://github.com/samuelfer42/Minishell" />
-   <img   src="https://github-readme-stats.vercel.app/api/pin/?username=samuelfer42&repo=Cub3d&border_radius=30&hide_border=true)](https://github.com/samuelfer42/Cub3d" />
+	   <a href="https://github.com/samuelfer42/Ft_transcendance">
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=samuelfer42&repo=Ft_transcendance&border_radius=30&hide_border=true"/>
+     </a>
+     <a href="https://github.com/samuelfer42/Ft_irc">
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=samuelfer42&repo=ft_irc&border_radius=30&hide_border=true"/>
+     </a>
+     <a href="https://github.com/samuelfer42/Minishell">
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=samuelfer42&repo=Minishell&border_radius=30&hide_border=true"/>
+     </a>
+     <a href="https://github.com/samuelfer42/Cub3d">
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=samuelfer42&repo=Cub3d&border_radius=30&hide_border=true"/>
+     </a>
   </div>
-
 <!---
 samuelfer42/samuelfer42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
