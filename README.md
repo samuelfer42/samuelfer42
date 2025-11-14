@@ -92,14 +92,6 @@ Embedded Systems • DevOps • IoT • UAV • R&D • Electronics
 
 </div>
 
----
-
-<div align="center">
-
-## 🐍 Snake Animation
-<img src="https://raw.githubusercontent.com/samuelfer42/samuelfer42/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
 
 <!---
 samuelfer42/samuelfer42 is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
