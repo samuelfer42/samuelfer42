@@ -81,15 +81,6 @@ Embedded Systems • DevOps • IoT • UAV • R&D • Electronics
 
 </div>
 
----
-
-<div align="center">
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelfer42&layout=compact&theme=tokyonight" height="150"/>
-
-</div>
 
 
 <!---
