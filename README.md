@@ -5,7 +5,7 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samuelfer42/)
 </br>
-![42](https://badgen.net/badge/Born2Code/safernan/red?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
+![Born2Code](https://img.shields.io/badge/Born2Code-safernan-red?logo=42&logoColor=white)
   </br>
 🌱 I am an developer. 
 </div>
