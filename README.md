@@ -1,14 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=220&text=Hi%20there,%20I'm%20Samuel%20Fernandez!%20👋&fontSize=32&fontAlignY=40&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,100:00CFFF&height=220&text=Hi%20there,%20I'm%20Samuel%20Fernandez!%20👋&fontSize=32&fontAlignY=40&fontColor=ffffff" width="100%"/>
 
 <div align="center">
 
-## 👨‍💻 Responsable Développement Informatique  
-### VisionDrone • RLDWind  
-Embedded Systems • DevOps • IoT • UAV • R&D • Electronics
+## 👨‍💻 Founder · Digitrix  
+### Digital Solutions · Development · Automation · Optimization · Support
+
+Independent developer and digital solutions provider, helping professionals and individuals with custom tools, process automation, system optimization, websites, technical support and tailored digital projects.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samuelfer42/)
-[![VisionDrone](https://img.shields.io/badge/VisionDrone-Website-blue?style=flat&logo=internet-explorer&logoColor=white)](https://www.visiondrone.net/fr/)
-[![RLDWind](https://img.shields.io/badge/RLDWind-Platform-green?style=flat&logo=cloud&logoColor=white)](https://www.rldwind.com/fr/)
+[![Digitrix](https://img.shields.io/badge/Digitrix-Website-007BFF?style=flat&logo=googlechrome&logoColor=white)](https://digitrix.fr/)
 ![Born2Code](https://img.shields.io/badge/Born2Code-safernan-red?logo=42&logoColor=white)
 
 </div>
@@ -61,6 +61,10 @@ Embedded Systems • DevOps • IoT • UAV • R&D • Electronics
 <img src="https://img.shields.io/badge/API%20Development-4A90E2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Monitoring%20%26%20Logging-333?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Reverse%20Proxy-555?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Automation-007BFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System%20Optimization-005f99?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Technical%20Support-111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Server%20Management-222?style=for-the-badge"/>
 
 ---
 
@@ -70,6 +74,31 @@ Embedded Systems • DevOps • IoT • UAV • R&D • Electronics
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Web%20Security-8A2BE2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Responsive%20Design-005f99?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Website%20Creation-007BFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Website%20Redesign-005f99?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SEO-222?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UI%20%2F%20UX-111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Custom%20Web%20Solutions-333?style=for-the-badge"/>
+
+---
+
+### ⚙️ Digital Solutions & Automation
+<img src="https://img.shields.io/badge/Process%20Automation-007BFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Workflow%20Optimization-005f99?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Digital%20Solutions-111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Business%20Tools-222?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Custom%20Projects-333?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Productivity%20Tools-444?style=for-the-badge"/>
+
+---
+
+### 👥 Support & Assistance
+<img src="https://img.shields.io/badge/Professional%20Support-007BFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/IT%20Assistance-005f99?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Troubleshooting-111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System%20Maintenance-222?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Consulting-333?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tailored%20Solutions-444?style=for-the-badge"/>
 
 ---
 
@@ -81,7 +110,17 @@ Embedded Systems • DevOps • IoT • UAV • R&D • Electronics
 
 </div>
 
+---
 
+<div align="center">
+
+## 📫 Contact
+
+[![Email](https://img.shields.io/badge/Email-digitrix@etik.com-007BFF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:digitrix@etik.com)
+[![Website](https://img.shields.io/badge/Website-digitrix.fr-00AEEF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://digitrix.fr/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samuel%20Fernandez-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelfer42/)
+
+</div>
 
 <!---
 samuelfer42/samuelfer42 is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
